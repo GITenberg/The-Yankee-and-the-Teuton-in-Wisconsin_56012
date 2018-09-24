@@ -1,11 +1,16 @@
 _repo: The-Yankee-and-the-Teuton-in-Wisconsin_56012
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56012-h/images/cover.jpg
 creator:
   author:
     agent_name: Schafer, Joseph
     gutenberg_agent_id: '48624'
     url: http://www.gutenberg.org/2009/agents/48624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56012#The-Yankee-and-the-Teuton-in-Wisconsin
 gutenberg_issued: '2017-11-20'
 gutenberg_type: Text
 identifiers:
